@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./publiiovidiinaso03ovid_0453.png"; bbox 0 0 2495 3675; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 149 637">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 149 637">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 149 637; baseline 0.315 -47"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 10 295; x_wconf 61' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_2' title='bbox 142 631 149 637; x_wconf 0' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 175 1110 2054 1237">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 175 1110 2054 1237">
+     <span class='ocr_line' id='line_1_2' title="bbox 175 1110 2054 1237; baseline 0.003 -13"><span class='ocrx_word' id='word_1_3' title='bbox 175 1116 283 1224; x_wconf 89' lang='lat' dir='ltr'><strong>P.</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 379 1112 1073 1237; x_wconf 83' lang='lat' dir='ltr'>OVIDII</span> <span class='ocrx_word' id='word_1_5' title='bbox 1178 1110 2054 1233; x_wconf 67' lang='lat' dir='ltr'><strong>NASONIS</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 41 1431 2172 1665">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 41 1431 2172 1726">
+     <span class='ocr_line' id='line_1_3' title="bbox 41 1431 2172 1665; baseline 0.006 -14"><span class='ocrx_word' id='word_1_6' title='bbox 41 1431 2172 1665; x_wconf 79' lang='lat' dir='ltr'><strong>TRISTIUM</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
